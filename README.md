@@ -15,4 +15,8 @@ Language Preferences
 3. Python, etc.
 
 Recent Activities
-
+1. Cocos2d official documents typo issue reporting
+ Link : https://github.com/cocos2d/cocos2d-x-docs/issues/300#issue-801915342
+ 
+2. Drozer package list instruction issue solving (merged)
+ Link : https://github.com/FSecureLABS/drozer/issues/316#issuecomment-784869213

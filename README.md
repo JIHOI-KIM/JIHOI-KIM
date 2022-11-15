@@ -1,4 +1,5 @@
 ## Hi, I'm Just A Newb1e.
+![img](https://github.com/JIHOI-KIM/JIHOI-KIM/blob/main/Dice.png)
 ### About License
 __Basically,__ All of My Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.  
 If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.

@@ -1,5 +1,5 @@
 ## Hi, I'm Just A Newb1e.
-![img](https://github.com/JIHOI-KIM/JIHOI-KIM/blob/main/Dice.png)
+![img](https://github.com/JIHOI-KIM/JIHOI-KIM/blob/main/Dice.png)  
 ___Hope we can roll our day!___
 
 ### About License

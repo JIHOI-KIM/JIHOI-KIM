@@ -7,5 +7,5 @@ __Basically,__ All of my source code form is subject to the terms of the __Mozil
 If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 ### About Repositories
-+ __Newb1eTimer__
-   + This repository is created for personal purpose, to manage daily worktime (or studytime) in forms of web application.
++ __SimpleGadgets__
+   + This repository is created for personal purpose, as simple tools for CTFs.
